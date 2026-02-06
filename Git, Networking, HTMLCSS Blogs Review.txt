@@ -8,3 +8,43 @@ https://amrutanshupanda.hashnode.dev/inside-git-how-it-works-and-the-role-of-the
 ------------------------------------------------------
 Git for Beginners: Basics and Essential Commands
 https://amrutanshupanda.hashnode.dev/git-for-beginners-basics-and-essential-commands
+
+------------------------------------------------------
+Understanding HTML Tags and Elements
+https://amrutanshupanda.hashnode.dev/understanding-html-tags-and-elements
+
+------------------------------------------------------
+How a Browser Works: A Beginner-Friendly Guide to Browser Internals
+https://amrutanshupanda.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
+
+------------------------------------------------------
+Emmet for HTML: A Beginner’s Guide to Writing Faster Markup
+https://amrutanshupanda.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup
+
+------------------------------------------------------
+CSS Selectors 101: Targeting Elements with Precision
+https://amrutanshupanda.hashnode.dev/css-selectors-101-targeting-elements-with-precision
+
+------------------------------------------------------
+Understanding Network Devices
+https://amrutanshupanda.hashnode.dev/understanding-network-devices
+
+------------------------------------------------------
+TCP vs UDP: When to Use What, and How TCP Relates to HTTP
+https://amrutanshupanda.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http
+
+------------------------------------------------------
+DNS Record Types Explained
+https://amrutanshupanda.hashnode.dev/dns-record-types-explained
+
+------------------------------------------------------
+TCP Working: 3-Way Handshake & Reliable Communication
+https://amrutanshupanda.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication
+
+------------------------------------------------------
+How DNS Resolution Works
+https://amrutanshupanda.hashnode.dev/how-dns-resolution-works
+
+------------------------------------------------------
+Getting Started with cURL
+https://amrutanshupanda.hashnode.dev/getting-started-with-curl
